@@ -1,0 +1,11 @@
+MQ Value: 300
+MQ Value: 299
+MQ Value: 302
+MQ Value: 304
+MQ Value: 300
+MQ Value: 300
+MQ Value: 299
+MQ Value: 299
+MQ Value: 299
+MQ Value: 299
+MQ Value: 299
